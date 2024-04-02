@@ -60,7 +60,7 @@ plt.legend()
 ```
 
 ## OUTPUT:
-### FIRST FIVE ROWS:
+### FIRST FIVE ROWS: 
 ![1](1.png)
 
 ### PLOTTING THE DATA:
